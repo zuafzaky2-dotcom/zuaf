@@ -1,0 +1,30 @@
+.title {
+    color: red;
+    text-align: center;
+}
+table {
+    font-family: "Arial";
+    font-size: 12px;
+    width: 80%;
+    margin: auto;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.satu {
+    background-color: #45cffd;
+}
+
+.tiga {
+    background-color:#45cffd;
+}
+
+tr:hover {background-color: rgb(219, 59, 27);}
